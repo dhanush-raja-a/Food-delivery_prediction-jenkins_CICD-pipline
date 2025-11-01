@@ -3,3 +3,6 @@ jenkins trigger add
 webhook done
 jenkins now listerning for commit 
 let do the commit
+
+
+## try again when the docker is stop 
