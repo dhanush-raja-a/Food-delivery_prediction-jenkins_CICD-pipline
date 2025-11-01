@@ -17,5 +17,4 @@ model/*.pkl
 # VS Code
 .vscode/
 
-# FastAPI / build
 *.log
