@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+
+# macOS
+.DS_Store
+
+# Model files
+model/*.pkl
+
+# VS Code
+.vscode/
+
+*.log
